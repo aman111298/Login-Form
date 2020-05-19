@@ -1,2 +1,1 @@
-# Login-form
-# Login-Form
+This form authenticates only those users who are already registered in the system. This web page checks the information provided by the user is already available in the database or not. If it’s the present user will be logged in.  
